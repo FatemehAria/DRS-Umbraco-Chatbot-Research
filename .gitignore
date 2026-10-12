@@ -1,0 +1,15 @@
+# .NET build outputs
+**/bin/
+**/obj/
+
+# Downloaded AI model artifacts
+Model/
+Model-*/
+AIModel/
+
+*.onnx
+*.gguf
+*.pt
+*.pth
+*.bin
+*.model
